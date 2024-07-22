@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2879264052",
+    "project_id": "jobfinderapp-82d58",
+    "storage_bucket": "jobfinderapp-82d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2879264052:android:50b6eb602edfbc53548161",
+        "android_client_info": {
+          "package_name": "com.eyet.admin_jobfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rHiQUG9d9ALuTH8LpJwBY6hl_GbeLps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2879264052:android:661d13958a75c9c2548161",
+        "android_client_info": {
+          "package_name": "com.eyet.job_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rHiQUG9d9ALuTH8LpJwBY6hl_GbeLps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
