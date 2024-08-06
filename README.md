@@ -27,8 +27,7 @@ This Admin App allows admins to find users and hire them, and manage job posting
 ### Steps
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/job-application-admin-app.git
-    cd job-application-admin-app
+    https://github.com/hassankhalid2239/admin_jobfinder
     ```
 
 2. **Install dependencies**:
